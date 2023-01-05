@@ -11,6 +11,11 @@ img {
 
 
 body {
- color: blue;
+ color: rgb(0, 0, 0);
  padding: auto;
+}
+
+footer {
+ align-items: flex-end;
+ align-items: baseline;
 }
