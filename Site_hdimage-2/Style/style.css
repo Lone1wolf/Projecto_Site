@@ -1,0 +1,16 @@
+html {
+ text-emphasis-color: rgb(255, 255, 255);
+ text-align: center;
+}
+
+
+img {
+ width: 200px;
+ height: 200px;
+}
+
+
+body {
+ color: blue;
+ padding: auto;
+}
